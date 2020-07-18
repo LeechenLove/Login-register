@@ -74,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Login_register/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2304">
               <caret line="128" column="35" selection-start-line="128" selection-start-column="35" selection-end-line="128" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
             </state>
           </provider>
         </entry>
@@ -102,6 +111,7 @@
         <option value="$PROJECT_DIR$/login/static/login/css/register.css" />
         <option value="$PROJECT_DIR$/login/views.py" />
         <option value="$PROJECT_DIR$/Login_register/settings.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -141,7 +151,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/login/views.py&#10;F:/DjangoProject/Login-register/login/static/login/css/register.css&#10;F:/DjangoProject/Login-register/login/forms.py&#10;F:/DjangoProject/Login-register/readme.md&#10;F:/DjangoProject/Login-register/Login_register/settings.py" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore&#10;F:/DjangoProject/Login-register/login/views.py&#10;F:/DjangoProject/Login-register/login/static/login/css/register.css&#10;F:/DjangoProject/Login-register/login/forms.py&#10;F:/DjangoProject/Login-register/readme.md&#10;F:/DjangoProject/Login-register/Login_register/settings.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -286,6 +296,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2304">
           <caret line="128" column="35" selection-start-line="128" selection-start-column="35" selection-end-line="128" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
         </state>
       </provider>
     </entry>
